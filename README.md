@@ -1,5 +1,8 @@
 # VToonify - Official PyTorch Implementation
 
+![VToonify_result](https://user-images.githubusercontent.com/32260565/194728888-077167c3-004a-4001-bba9-8322fe0c6aa2.png)
+
+
 https://user-images.githubusercontent.com/18130694/189483939-0fc4a358-fb34-43cc-811a-b22adb820d57.mp4
 
 This repository provides the official PyTorch implementation for the following paper:
